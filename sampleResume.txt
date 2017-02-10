@@ -1,0 +1,75 @@
+Name: Emma Mathew
+Address: 11 Copper Street
+Merry Lane
+Aurora
+Colorado - 80010, United States
+Telephone Number: (829) 425-2637
+Email Id: emma.mathew@anymail.com
+Career objective:
+
+To work as a C programmer in an organization where my skills and knowledge will help the company in a positive way
+
+Skills:
+
+Possess experience in analysis, designing, coding, testing and deployment of the project
+Ability to create a good interface between the existing technologies while developing software
+Ability to work with operating systems like Windows XP (Home and Professional), Windows Vista, Linux and Unix
+Can work on programming languages like C, C++ and Java
+Good understanding of the current industry standards and practices
+Experience of writing codes in HTTP and JavaScript for internet applications
+Knowledge of protocols like TCP IP, routers, switches and other networking technologies
+Educational Qualifications:
+
+University of Colorado, US
+Masters degree in Information Technology
+Year - 20XX
+
+University of Alaska, US
+Bachelor's degree in Computer Science
+Year - 20XX
+
+Certifications:
+
+Certification course in hardware and networking (Duration - 6 months)
+Certifications course in C and C++ programming (Duration - 3 months)
+Work Experience:
+
+Designation: C programmer
+Organization: Simply C Technologies
+Duration: 3.3 years
+
+Responsibilities:
+
+Collecting and providing necessary input required for the development of software
+Developing templates required in the process of development
+Providing system specifications and requirements for the development of the required applications
+Writing code by developing proper logic and structure of the program
+Designing database as per the requirements of the application
+Assisting new joinees and juniors in developing code
+Designation: Software Programmer
+Organization: ClickStart Inc.
+Duration: 3 years
+
+Responsibilities:
+
+Worked on projects based on financial products, pharmaceutical products, accounting products, etc
+Worked as a team lead for a team of 5 people
+Assisted the team in planning and developing flow charts and algorithms
+Designing software and hardware requirements that can be used in development
+Testing the designed code and fixing the bugs if any
+Discussing issues related to the projects with seniors
+Personal Details::
+
+Sex: Female
+Marital Status: Single
+Date of Birth: XX - XX - 19XX
+Nationality: American
+Languages: English
+
+References::
+
+Name: Steven Collins
+Designation: Sr. Programmer Analyst
+Organization Name: Bros. Technologies
+Telephone Number: (331) 677-8989
+Email id: steven_collins@xyz.com

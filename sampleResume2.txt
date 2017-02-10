@@ -1,0 +1,82 @@
+Contact Details
+
+James Richards
+16 Current Street
+Boston
+Massachusetts - 37623, US
+Phone no.: (829) 029-5363
+E-mail id: jamesrichards@anymail.com
+
+Career Objective:
+
+Application programmer job with an esteemed organization where my programming skills are nurtured
+
+Summary of Skills:
+
+Ability to rely on quality while developing software products
+Excellent mathematical skills and good general knowledge
+Expertise in outlining specifications, understanding the architecture of the systems
+Enthusiastic, and prefers experimenting with newer programming approaches
+Ability to work according to the standard programming techniques and developed documents
+Excellent in integrating individual modules of software
+Team player, and supporting juniors in programming
+Technical knowledge:
+
+Networking knowledge - Network protocols like TCP/IP and VoIP, LAN, MAN, WAN technologies, Bluetooth services, Wi-Fi technologies, etc
+
+Network servers - Proxy servers, DNS servers and Windows FTP servers
+
+Operating Systems - DOS, Linux, UNIX, Microsoft Windows, Mac OS, Solaris, Apache and Microsoft Windows Azure
+
+Programming skills - C, C++, COBOL, FORTRAN, Java, .Net, VB, C#, JavaScript, Perl, Jumla, Php, HTML, XML, etc
+
+Educational Qualification:
+
+Degree: M Tech. (Computer Science)
+University: University of Massachusetts, US
+Percentage: XX.XX percentage
+Year of passing: 19XX
+
+Degree: B Tech. (Compute Science)
+University: University of Massachusetts, US
+Percentage: XX.XX percentage
+Year of passing: 19XX
+
+Professional Experience:
+
+Currently employed as Application Programmer at Armory Inc. (20XX - till date)
+Job Responsibilities:
+
+Collecting and outlining requirements and designs for software systems
+Working with batch processing systems and real time systems, and developing programs for them
+Worked on projects like vehicle tracking systems, Warehouse management system and online reporting system, etc.
+Involved in developing code in various programming languages as per the requirements
+Assisted juniors and reviewed their work and performance
+Employed as Application Programmer at Merisona Solutions Inc. (19XX - 20XX)
+Job Responsibilities:
+
+Involved in both, front end and back end of the project development
+Checking the systems on various operating systems platforms, and checking for the compatibility of the developed software
+Checking the systems after deployment, and assisting end users in using the software
+Involved in web site development projects for schools, colleges and informative web sites
+Looking towards the maintenance of the developed software, and upgrading software programs whenever necessary
+Employed as a Application Programmer at Wild Technologies Inc. (19XX - 20XX)
+Job Responsibilities:
+
+Involved in projects such as development of OMR (Optical Magnetic Reader), online booking systems, payroll and billing systems, etc.
+Actively involved in the SDLC (System Development Life Cycle) while project development
+Interacting with various teams working on the same projects, and gathering information from them
+Keeping a tack record of the projects
+Conducting presentation to maintain interactions, between different team members of the same project, working on the same module
+Personal Details:
+
+Sex: Male
+Birth date: XX-XX-19XX
+Marital status: Married
+Nationality: American
+Interests: Playing Hockey and Rugby
+Languages: English and Spanish
+
+References:
+
+Will be provided upon request
